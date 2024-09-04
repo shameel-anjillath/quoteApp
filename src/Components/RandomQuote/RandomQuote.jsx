@@ -14,8 +14,8 @@ const RandomQuote = () => {
     }
 
     const [quote, setQuote] = useState({
-        content: "My name is shameel",
-        author: "Shameel"
+        content: "Remember I will be always with you forever",
+        author: "Soulmate rash"
     })
 
     loadQuotes()
